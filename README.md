@@ -6,4 +6,5 @@ https://public.tableau.com/app/profile/vedant.warke/viz/Covid19-India_1685904352
 
 # Screen Shot
 
-![image](https://github.com/vedantwarke/Covid-19-Analysis/assets/134506624/10333758-95c7-42bf-9122-42d0ea587c44)
+![image](https://github.com/vedantwarke/Covid-19-Analysis/assets/134506624/e996fb37-64e2-44d9-9242-65d6f5382e81)
+
